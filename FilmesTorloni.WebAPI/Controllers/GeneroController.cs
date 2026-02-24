@@ -69,4 +69,32 @@ public class GeneroController : ControllerBase
             return BadRequest(e.Message);
         }
     }
+
+    [HttpPut]
+    public IActionResult PutBody(Genero generoAtualizado)
+    {
+        try
+        {
+            _generoRepository.AtualizarIdCorpo(generoAtualizado);
+            return NoContent();
+        }
+        catch (Exception e) 
+        {
+            return BadRequest(e.Message);
+        }
+    }
+
+    [HttpDelete("{id}")]
+    public IActionResult Delete(Guid id)
+    {
+        try
+        {
+            _generoRepository.Deletar(id);
+            return NoContent();
+        }
+        catch (Exception e)
+        {
+            return BadRequest(e.Message);
+        }
+    }
 }
