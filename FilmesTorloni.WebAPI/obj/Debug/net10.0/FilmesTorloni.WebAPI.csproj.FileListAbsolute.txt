@@ -311,3 +311,5 @@ C:\Users\Marcos Vinicius\Desktop\3SDEV - Torloni\Projeto Filme\FilmesTorloni.Web
 C:\Users\Marcos Vinicius\Desktop\3SDEV - Torloni\Projeto Filme\FilmesTorloni.WebAPI\obj\Debug\net10.0\FilmesTorloni.WebAPI.pdb
 C:\Users\Marcos Vinicius\Desktop\3SDEV - Torloni\Projeto Filme\FilmesTorloni.WebAPI\obj\Debug\net10.0\FilmesTorloni.WebAPI.genruntimeconfig.cache
 C:\Users\Marcos Vinicius\Desktop\3SDEV - Torloni\Projeto Filme\FilmesTorloni.WebAPI\obj\Debug\net10.0\ref\FilmesTorloni.WebAPI.dll
+C:\Users\Marcos Vinicius\Desktop\3SDEV - Torloni\Projeto Filme\FilmesTorloni.WebAPI\bin\Debug\net10.0\BCrypt.Net-Next.dll
+C:\Users\Marcos Vinicius\Desktop\3SDEV - Torloni\Projeto Filme\FilmesTorloni.WebAPI\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
